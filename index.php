@@ -9,11 +9,11 @@
     <link href="css/estilos.css" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
   
-    <h4>hola, este es mi primera página</h4>
+  
 
 
-    <footer>
-    </footer>
+ <body>
+       <h4>hola, este es mi primera página</h4>
     </body>
 
     </html>
